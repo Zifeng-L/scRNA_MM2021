@@ -1,5 +1,5 @@
 # scRNA_MM2021
-# Single-cell RNA analysis of multiple myeloma
+## Single-cell RNA analysis of multiple myeloma
 
 Principal analysis code used in ["Single-Cell RNA-seq Reveals Clonal Diversity and Prognostic Genes of Relapsed Multiple Myeloma"]
 
